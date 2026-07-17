@@ -32,8 +32,11 @@ Follow these steps to copy a block in the page builder:
      - **Command + V** on Mac  
      - **Ctrl + V** on Windows
 
-7. **Also, you will see some pink blocks in the sidebar. Those are reusable templates, and you can copy them if you want to use them on other pages.**
-![Copy block](img/copy-block5.png)
+7. **Also, you will see pink and blue blocks in the sidebar. Both can be copied and used on other pages, but they behave differently when edited:**
+      - **Pink blocks:** Editing a pink block will reflect changes across all pages where that template is used.
+      ![Copy block](img/copy-block5.png)
+      - **Blue blocks:** Editing a blue block will only affect the current page.
+      ![Copy block](img/copy-block7.png)
 
 8. **To use a reusable template, click on the 'Add Block' button and select 'Reusable Templates'.**  
 ![Copy block](img/copy-block6.png)
