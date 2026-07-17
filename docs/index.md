@@ -6,7 +6,6 @@
 * Child theme: blocksy-child (Active Global Protection - Coalition Technologies Theme)
 
 ## Custom Sections and Pages 
-* [Header & Footer Scripts](header-footer/)
 * [Menu](menu/)
 * [Form](form/)
 * [Wp Blocks](custom-sections/)
@@ -57,7 +56,7 @@ Here we have all the theme settings
 - **Header Settings:** Align menus and adjust spacing. You can change the setting by clicking on the COG icon
 ![Theme Settings](img/header-settings.png)
 - **Sticky Header:** Enable a header that stays visible on scroll.  
-
+- **Article:** <a href="https://creativethemes.com/blocksy/docs/header-elements/header-builder-elements/" target="_blank">Header builder elements</a>
 ---
 
 ## Blog / Archive

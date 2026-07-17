@@ -26,3 +26,12 @@ Follow these steps to copy a block in the page builder:
      - **Command + V** on Mac  
      - **Ctrl + V** on Windows
 
+---
+
+## Useful Article
+
+Please refer to these articles for more information:
+
+1. <a href="https://creativethemes.com/blocksy/docs/" target="_blank">Blocksy Documentation</a>
+
+2. <a href="https://creativethemes.com/blocksy/docs/general-options/general/" target="_blank">General Options</a>
