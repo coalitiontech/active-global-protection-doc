@@ -1,9 +1,9 @@
 :root {
-    --var-primary: #007EA8;
-    --var-primary-dark: #00527C;
-    --var-secondary: #7bc2ea;
-    --var-dark: #313131;
-    --var-light: #ececec;
+    --var-primary: #2AB6E8;
+    --var-primary-dark: #005DA3;
+    --var-secondary: #6AC8E5;
+    --var-dark: #0E0E0E;
+    --var-light: #EDEDEE;
 }
 
 .wy-side-nav-search {
