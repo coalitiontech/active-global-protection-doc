@@ -1,7 +1,6 @@
 site_name: Active Global Protection
 nav:
   - Theme Settings: index.md
-  - Header & Footer Scripts: header-footer.md
   - Menu: menu.md
   - Form: form.md
   - WP Blocks: custom-sections.md

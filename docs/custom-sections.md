@@ -1,12 +1,10 @@
 # WP Blocks
-## Hero Section
+## Section
 
-To add **green text** on the hero section:
+To add **green text** on the section:
 
-- Wrap the words you want in green with the CSS class `cgreen`.  
-  Example: `<span class="cgreen">Your green text</span>`
-
-![Hero section](img/green-text.png)
+- You can directly change the text in the Block editor by clicking on the text, and then clicking save.
+![section](img/section-text.png)
 
 ---
 
@@ -15,7 +13,7 @@ To add **green text** on the hero section:
 Follow these steps to copy a block in the page builder:
 
 1. **Select the block column**  
-   Click on the column containing the block you want to copy.  
+   Click on the section you want to copy, click on the three dots, and then select 'Copy'.
    ![Select column](img/copying-blocks.png)
 
 2. **Copy the block**  

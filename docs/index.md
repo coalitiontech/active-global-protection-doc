@@ -54,7 +54,8 @@ Here we have all the theme settings
 ---
 
 ## Header Options  
-- **Header Settings:** Align menus and adjust spacing.
+- **Header Settings:** Align menus and adjust spacing. You can change the setting by clicking on the COG icon
+![Theme Settings](img/header-settings.png)
 - **Sticky Header:** Enable a header that stays visible on scroll.  
 
 ---
