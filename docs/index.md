@@ -5,6 +5,15 @@
 * Parent theme: Blocksy 2.1.49
 * Child theme: blocksy-child (Active Global Protection - Coalition Technologies Theme)
 
+## Greenshift 
+* Although this site uses the **Blocksy** theme, the block shown on this page was created with the **Greenshift** block-builder plugin. For setup, editing, and full documentation, see the Greenshift documentation:
+
+    * <a href="https://greenshiftwp.com/how-to-use-local-fonts-in-greenshift-for-gdpr/" target="_blank">How to use local fonts in Greenshift for GDPR</a>
+    * <a href="https://greenshiftwp.com/documentation/greenshift-basics/global-settings/" target="_blank">Global Settings</a>
+    * <a href="https://greenshiftwp.com/learning-center/" target="_blank">Header builder elements</a>
+    * <a href="https://greenshiftwp.com/block-gallery/" target="_blank">Block gallery</a>
+
+
 ## Custom Sections and Pages 
 * [Menu](menu/)
 * [Form](form/)
